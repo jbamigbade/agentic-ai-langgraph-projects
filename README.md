@@ -180,9 +180,33 @@ These capabilities form the foundation of modern production-grade AI agent syste
 **AI Agents in LangGraph**
 DeepLearning.AI
 
-Completed by:
-**Oluwaseyi (John) Bamigbade**
+**About the Author**
 
+John Bamigbade is a Mathematics graduate student, AI engineer, educator, and clinical research professional with experience in Agentic AI, Retrieval-Augmented Generation (RAG), LangGraph, LangChain, Python, data analytics, and machine learning.
+
+His work focuses on building practical AI solutions that leverage large language models, intelligent agents, workflow orchestration, and data-driven decision making.
+
+Current interests include:
+
+Agentic AI Systems
+LangGraph Development
+Retrieval-Augmented Generation (RAG)
+AI Engineering
+Data Science & Analytics
+Machine Learning
+Educational Technology
+
+
+**Contact Information**
+
+John (Oluwaseyi) Bamigbade
+
+LinkedIn: https://www.linkedin.com/in/jbamigbade
+GitHub: https://github.com/jbamigbade
+Email: john.o.bamigbade@gmail.com
+
+---
+"All glory to God for the wisdom, knowledge, and opportunity to learn, teach, and build impactful solutions."
 ---
 
 *"Commit your work to the Lord, and your plans will be established." – Proverbs 16:3*.
