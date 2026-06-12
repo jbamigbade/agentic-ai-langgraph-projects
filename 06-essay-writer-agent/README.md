@@ -192,7 +192,22 @@ This project demonstrates how AI systems can:
 These concepts form the foundation of modern autonomous AI agents.
 
 ---
+## Workflow Screenshots
 
+### Essay Writer Architecture
+![Essay Writer](Essay%20Writer%20-%201.jpg)
+
+### Planning Stage
+![Plan](Plan.jpg)
+
+### Draft Generation
+![Draft](Draft.jpg)
+
+### Critique and Revision
+![Critique](Critque.jpg)
+
+### State Snapshot
+![State Snapshot](StateSnapshot.jpg)
 ## Files
 
 - essay_writer_agent.ipynb
